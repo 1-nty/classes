@@ -35,7 +35,7 @@ User.prototype.test = 5;
 var myObject = {
     sProp: 'some string value',
     numProp: 2,
-    bProp: false
+    bProp: false,
     images: ["smile.gif", "grim.gif", "frown.gif", "bomb.gif"],
     pos: { // nested object literal
         x: 40,
