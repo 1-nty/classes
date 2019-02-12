@@ -32,6 +32,7 @@ User.prototype.test = 5;
 
 
 /*****************object literal ******************/
+// with this syntax you should do a LET OBJ = myObject       *Do not incl. new*
 var myObject = {
     sProp: 'some string value',
     numProp: 2,
